@@ -1,0 +1,9 @@
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\bin\Debug\netcoreapp1.1\ShoppingCartApi.deps.json
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\bin\Debug\netcoreapp1.1\ShoppingCartApi.runtimeconfig.json
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\bin\Debug\netcoreapp1.1\ShoppingCartApi.runtimeconfig.dev.json
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\bin\Debug\netcoreapp1.1\ShoppingCartApi.dll
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\bin\Debug\netcoreapp1.1\ShoppingCartApi.pdb
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\obj\Debug\netcoreapp1.1\ShoppingCartApi.csprojResolveAssemblyReference.cache
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\obj\Debug\netcoreapp1.1\ShoppingCartApi.AssemblyInfo.cs
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\obj\Debug\netcoreapp1.1\ShoppingCartApi.dll
+C:\Users\hudrec\Desktop\ShoppingCart\ShoppingCartApi\ShoppingCartApi\obj\Debug\netcoreapp1.1\ShoppingCartApi.pdb
